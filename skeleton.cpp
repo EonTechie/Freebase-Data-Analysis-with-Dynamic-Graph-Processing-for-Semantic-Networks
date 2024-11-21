@@ -1,10 +1,8 @@
-/* Filiz Yıldız 
-   Graduate School Number : 504231538
-   Computer Engineering Department 
-   BLG223E Data Structures Course
-   2024 Spring Semester
-   Project - 3 
-*/
+/**
+ * Developed by EonTechie
+ * Repository: https://github.com/EonTechie
+ */
+
 
 #include <iostream>  // Include the standard input-output stream library
 #include <vector>    // Include the vector container library
