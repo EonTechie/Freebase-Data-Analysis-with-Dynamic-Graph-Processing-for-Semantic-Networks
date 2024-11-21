@@ -31,7 +31,7 @@ Freebase was a large collaborative knowledge base consisting of structured data,
 
 ### Compilation
 ```bash
-g++ skeleton.cpp -o freebase_engine
+g++ main.cpp -o freebase_engine
 ```
 
 ### Execution
